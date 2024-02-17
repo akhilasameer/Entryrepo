@@ -1,4 +1,4 @@
-# Entryrepo
+# Banking System 
 Entry Projects
 
 Here is the video link which explaining the working of the code
